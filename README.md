@@ -7,5 +7,4 @@
 - Year: 2025
 
 📄 Certificate:
-[[View Certificate](Data_Analytics_Bootcamp_Certificate_TinaWu.pdf](https://github.com/tinawu2024/Professional-certificates-and-credentials/blob/7619bab8ebbf2fda662cc11cd7a0ffd2fbb30d40/Data_Analytics_Bootcamp_Certificate_TinaWu.pdf))
-](https://github.com/tinawu2024/Professional-certificates-and-credentials/blob/7619bab8ebbf2fda662cc11cd7a0ffd2fbb30d40/Data_Analytics_Bootcamp_Certificate_TinaWu.pdf)
+https://github.com/tinawu2024/Data-Analyst-Certificate/blob/ee9baaf9cf1ad7849be16301dcb5b2c7a53d6ce2/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion%20Tina.pdf
